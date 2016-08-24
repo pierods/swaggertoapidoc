@@ -1,0 +1,24 @@
+{
+  "name": "testapp",
+  "apidoc": {
+    "version": "0.11.23"
+  },
+  "info": {},
+  "base_url": "nullnull",
+  "resources": {
+    "ciao": {
+      "operations": [
+        {
+          "method": "GET",
+          "path": "",
+          "parameters": [],
+          "responses": {
+            "200": {
+              "description": "OK"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
